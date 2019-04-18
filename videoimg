@@ -1,0 +1,19 @@
+<?php
+$color ="red"
+$color ="green"
+$color ="blue"
+$color ="yellow"
+
+$gambar = "<'img scr=image 01.pjg'>";
+$video = "<video mov.add.mp4'>";
+
+echo =" my car is color =.$color ." <br>";
+echo =" my car is color =.$color ." <br>";
+echo =" my car is color =.$color ." <br>";
+echo =" my car is color =.$color ." <br>";
+
+echo = "$gambar";
+echo = "video";
+
+
+?>
